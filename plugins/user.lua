@@ -10,12 +10,6 @@ return {
   --   end,
   -- },
   {
-    "dracula/vim",
-    name = "dracula",
-    config = function()
-    end,
-  },
-  {
     "ggandor/leap.nvim",
     name = "leap",
     config = function()
